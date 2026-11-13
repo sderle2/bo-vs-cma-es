@@ -1,0 +1,14 @@
+{
+  "main": {
+    "evaluations_recomputed": 54000,
+    "max_absolute_csv_roundtrip_error": 1.4551915228366852e-11,
+    "source_and_config_hash_match": true,
+    "fit_warnings_recorded": 2160
+  },
+  "followup": {
+    "evaluations_recomputed": 8000,
+    "max_absolute_csv_roundtrip_error": 1.4551915228366852e-11,
+    "source_and_config_hash_match": true,
+    "fit_warnings_recorded": 274
+  }
+}

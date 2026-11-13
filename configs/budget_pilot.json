@@ -1,0 +1,22 @@
+{
+  "label": "budget_pilot",
+  "functions": [
+    "sphere"
+  ],
+  "dimensions": [
+    10
+  ],
+  "trials": [
+    91
+  ],
+  "methods": [
+    "bo",
+    "cma"
+  ],
+  "budget": 500,
+  "n_initial": 10,
+  "seed_base": 20261112,
+  "refit_every": 5,
+  "acquisition_starts": 3,
+  "candidate_pool": 128
+}

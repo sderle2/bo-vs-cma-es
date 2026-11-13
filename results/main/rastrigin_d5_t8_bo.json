@@ -1,0 +1,6 @@
+{
+  "seconds": 3.68893887498416,
+  "warnings": 1,
+  "final_kernel": "1.02**2 * Matern(length_scale=0.0943, nu=2.5)",
+  "cma_stop": null
+}

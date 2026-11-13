@@ -1,0 +1,27 @@
+{
+  "selection_rule": "largest final worse-method/better-method gap ratio across the 20 matched function-trial comparisons; ties broken by function then trial",
+  "status": "illustrative, not representative",
+  "function": "ellipsoid",
+  "dimension": 10,
+  "trial": 9,
+  "worse_method": "bo",
+  "failure_ratio": 137.9796164497165,
+  "traces": {
+    "bo": {
+      "10": 3906.133975525719,
+      "50": 419.70282706910217,
+      "100": 228.05497692596984,
+      "200": 66.1117840986208,
+      "500": 27.883723562610164,
+      "1000": 21.735071787500548
+    },
+    "cma": {
+      "10": 3906.133975525719,
+      "50": 1496.626261348388,
+      "100": 894.532615485206,
+      "200": 534.6030980135146,
+      "500": 80.42705811528015,
+      "1000": 0.1575237875464338
+    }
+  }
+}

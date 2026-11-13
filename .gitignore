@@ -1,0 +1,29 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+.mplconfig/
+results/pilot/
+results/pilot_verified/
+results/*_run.log
+results/lengthscale_sensitivity/progress.log
+results/lengthscale_sensitivity/smoke/
+.lock
+*.tmp
+~$*
+.pytest_cache/
+.env
+.env.*
+
+# Local project notes and setup guides
+/PROJECT_CONTEXT.md
+/GITHUB_SETUP_KO.md
+/START_HERE_KO.md
+
+# Local scripts and editable output from the previous report workflow
+/code/build_docx.py
+/code/build_report.py
+/code/write_report.py
+/report/report.docx
+/report/report.pdf
+/report/report copy.docx

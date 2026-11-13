@@ -1,0 +1,3 @@
+function,median_log10_ratio_at_200,median_log10_ratio_at_500,median_log10_ratio_at_1000,median_change_1000_minus_200,trials_cma_closed_relative_gap,trials_bo_extended_relative_advantage,trials_unchanged
+ellipsoid,0.7287692898031867,0.2699652586989722,-0.55060795790393,-1.1534153019086397,8,2,0
+sphere,4.102341863359433,2.508003803167316,-1.1529628752368577,-5.447779063340391,10,0,0

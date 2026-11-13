@@ -1,0 +1,14 @@
+{
+  "sphere": {
+    "first_evaluation_median_cma_no_larger_than_bo": 875,
+    "sustained_crossover_evaluation": 875,
+    "bo_median_at_sustained_crossover": 0.00012457572806015,
+    "cma_median_at_sustained_crossover": 0.00010740649548944848
+  },
+  "ellipsoid": {
+    "first_evaluation_median_cma_no_larger_than_bo": 803,
+    "sustained_crossover_evaluation": 803,
+    "bo_median_at_sustained_crossover": 19.003445929661677,
+    "cma_median_at_sustained_crossover": 18.24989568632939
+  }
+}

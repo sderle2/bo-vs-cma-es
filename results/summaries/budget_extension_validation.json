@@ -1,0 +1,12 @@
+{
+  "runs": 40,
+  "evaluations_recomputed": 40000,
+  "source_and_config_hash_match": true,
+  "first_200_prefix_match": true,
+  "max_prefix_x_absolute_difference": 0.0,
+  "max_prefix_value_absolute_difference": 0.0,
+  "max_prefix_best_absolute_difference": 0.0,
+  "max_objective_recomputation_error": 1.4551915228366852e-11,
+  "fit_warnings_recorded": 3899,
+  "extension_run_seconds_sum": 1906.8605765410466
+}

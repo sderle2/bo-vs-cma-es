@@ -1,0 +1,10 @@
+{
+  "definition": "earliest evaluation after initialization from which median CMA gap stays no larger than median BO gap through evaluation 200",
+  "sustained_crossover_evaluation": 197,
+  "bo_median_at_50": 0.0236351588883758,
+  "cma_median_at_50": 5.688181719809077,
+  "bo_median_at_100": 0.0009487031672097499,
+  "cma_median_at_100": 0.4173861393097132,
+  "bo_median_at_200": 0.00025941511328795,
+  "cma_median_at_200": 0.00023686042781589998
+}

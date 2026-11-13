@@ -1,0 +1,34 @@
+{
+  "config": {
+    "label": "budget_pilot",
+    "functions": [
+      "sphere"
+    ],
+    "dimensions": [
+      10
+    ],
+    "trials": [
+      91
+    ],
+    "methods": [
+      "bo",
+      "cma"
+    ],
+    "budget": 500,
+    "n_initial": 10,
+    "seed_base": 20261112,
+    "refit_every": 5,
+    "acquisition_starts": 3,
+    "candidate_pool": 128
+  },
+  "config_sha256": "5f505b64b90c3b856b9e1d4edd74b1898e20bf9b2da162ff2e858df19d74e835",
+  "source_sha256": "690ab3cc1ae62a7cc09db23a735ede5bbee856b491e11dea03ff6485e66f86b9",
+  "created_utc": "2026-11-12T08:10:53Z",
+  "python": "3.10.6 (v3.10.6:9c7b4bd164, Aug  1 2022, 17:13:48) [Clang 13.0.0 (clang-1300.0.29.30)]",
+  "platform": "macOS-26.6.2-arm64-arm-64bit",
+  "numpy": "2.2.6",
+  "scipy": "1.15.3",
+  "sklearn": "1.7.2",
+  "cma": "4.5.0",
+  "threads": 1
+}

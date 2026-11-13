@@ -1,0 +1,1 @@
+{"label":"pilot","functions":["sphere","rastrigin"],"dimensions":[2,10],"trials":[90],"methods":["bo","cma","random"],"budget":50,"n_initial":10,"seed_base":20261112,"refit_every":5,"acquisition_starts":3,"candidate_pool":128}

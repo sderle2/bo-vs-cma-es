@@ -1,0 +1,32 @@
+{
+  "label": "followup",
+  "functions": [
+    "ellipsoid",
+    "rastrigin"
+  ],
+  "dimensions": [
+    10
+  ],
+  "trials": [
+    100,
+    101,
+    102,
+    103,
+    104,
+    105,
+    106,
+    107,
+    108,
+    109
+  ],
+  "methods": [
+    "bo",
+    "bo_fixed"
+  ],
+  "budget": 200,
+  "n_initial": 10,
+  "seed_base": 20261112,
+  "refit_every": 5,
+  "acquisition_starts": 3,
+  "candidate_pool": 128
+}

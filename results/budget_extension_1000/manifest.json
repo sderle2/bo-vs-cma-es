@@ -1,0 +1,44 @@
+{
+  "config": {
+    "label": "budget_extension_1000",
+    "functions": [
+      "sphere",
+      "ellipsoid"
+    ],
+    "dimensions": [
+      10
+    ],
+    "trials": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "methods": [
+      "bo",
+      "cma"
+    ],
+    "budget": 1000,
+    "n_initial": 10,
+    "seed_base": 20261112,
+    "refit_every": 5,
+    "acquisition_starts": 3,
+    "candidate_pool": 128
+  },
+  "config_sha256": "9c46921cac58ff0b1a2423bb3888f1864f2343f8a7e72eb287f33addeaa2669a",
+  "source_sha256": "690ab3cc1ae62a7cc09db23a735ede5bbee856b491e11dea03ff6485e66f86b9",
+  "created_utc": "2026-11-12T08:12:03Z",
+  "python": "3.10.6 (v3.10.6:9c7b4bd164, Aug  1 2022, 17:13:48) [Clang 13.0.0 (clang-1300.0.29.30)]",
+  "platform": "macOS-26.6.2-arm64-arm-64bit",
+  "numpy": "2.2.6",
+  "scipy": "1.15.3",
+  "sklearn": "1.7.2",
+  "cma": "4.5.0",
+  "threads": 1
+}
